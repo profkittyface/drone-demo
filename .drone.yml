@@ -1,0 +1,6 @@
+pipeline:
+
+  build:
+    image: alpine:latest
+  publish:
+    image: 845415031233.dkr.ecr.us-east-1.amazonaws.com/techops/demo
